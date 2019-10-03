@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/C3_Environment_Banner",
+    "name": "OpenMageModuleFostering\/C3_Environment_Banner",
     "type": "magento-module",
     "license": "GNU-General-Public-License",
     "homepage": "",
     "description": "Tell at a glance if you are in a production, staging or dev environment - visual banners on frontend and admin",
     "authors": [
-    {
-        "name": "C3 Media",
-        "email": "hello@c3media.co.uk"
-    }
-],
+        {
+            "name": "C3 Media",
+            "email": "hello@c3media.co.uk"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
